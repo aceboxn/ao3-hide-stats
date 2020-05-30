@@ -17,9 +17,10 @@ Across all AO3 pages, hides the following:
 ### Standard AO3
 ![Before](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/9.png)
 
-## Prequisite: Desktop browser capable of running Tampermonkey (supports most modern browsers)
-
 ## To get up and running:
+
+Prequisite: Desktop browser capable of running Tampermonkey (supports most modern browsers)
+
 1. Install Tampermonkey browser extension: https://www.tampermonkey.net/.
 
 2. Once installed, you'll see a tiny robot head in the toolbar. Click it, then click "Dashboard".
