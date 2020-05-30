@@ -1,5 +1,5 @@
 # ao3-hide-stats
-Script to hide all user stats, such as comments, kudos, hits, bookmarks, from browsing on Archive of Our Own (AO3).
+Script to hide all user stats from browsing on Archive of Our Own (AO3). Provides clean interface to browse by interest versus popularity.
 
 Across all AO3 pages, hides the following:
 - comments
@@ -16,6 +16,8 @@ Across all AO3 pages, hides the following:
 ![After](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/10.png)
 ### Standard AO3
 ![Before](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/9.png)
+
+## Prequisite: Desktop browser capable of running Tampermonkey (supports most modern browsers)
 
 ## To get up and running:
 1. Install Tampermonkey browser extension: https://www.tampermonkey.net/.
@@ -62,3 +64,7 @@ When you're done, your dashboard screen will look like this (green toggle for en
 2. If you want to turn it off, click on the robot icon and click the toggle for "AO3 Stats Hiding".
 
 ![2](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/8.png)
+
+## Bugs & New Feature Requests
+
+If you find something not working as expected or have a new feature request, please feel free to open an issue or message me on tumblr: https://sonshineandshowers.tumblr.com/
