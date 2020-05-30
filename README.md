@@ -38,7 +38,7 @@ That will bring up a screen that looks like the below, yet yours will be empty t
 
 ![5a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/5.png)
 
-When you're done, your dashboard screen will look like this (two green toggles for enabled)
+When you're done, your dashboard screen will look like this (green toggle for enabled)
 
 ![5b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/6.png)
 
