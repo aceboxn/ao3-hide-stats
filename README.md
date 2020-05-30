@@ -21,6 +21,7 @@ Across all AO3 pages, hides the following:
 2. Once installed, you'll see a tiny robot head in the toolbar. Click it, then click "Dashboard".
 
 ![2a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/1.png)
+
 ![2b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/2.png)
 
 That will bring up a screen that looks like the below, yet yours will be empty to start.
