@@ -51,7 +51,7 @@ Replace it with your AO3 username as it appears in the URL bar (in this case, ap
 
 6. Click "File --> "Save" (all the naming happens automatically from the script).
 
-![6a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/5.png)
+![6a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/5a.png)
 
 When you're done, your dashboard screen will look like this (green toggle for enabled)
 
