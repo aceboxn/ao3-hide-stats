@@ -19,7 +19,7 @@ Across all AO3 pages, hides the following:
 
 ## To get up and running:
 
-Prequisite: Desktop browser capable of running Tampermonkey (supports most modern browsers)
+Prequisite: Desktop browser capable of running Tampermonkey (supports most modern browsers).
 
 1. Install Tampermonkey browser extension: https://www.tampermonkey.net/.
 
