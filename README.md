@@ -9,6 +9,8 @@ Across all AO3 pages, hides the following:
 - comments button
 - inbox button
 
+**NOTE:** If you still wish the inbox to be visible, delete the following text in AO3 Stats Hiding.txt: a[href="/users/yourusername/inbox"]{display:none !important;}
+
 ## View with stats hidden versus standard AO3
 ### With stats hidden
 ![After](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/10.png)
@@ -26,21 +28,31 @@ Across all AO3 pages, hides the following:
 
 That will bring up a screen that looks like the below, yet yours will be empty to start.
 
-3. Click the plus sign to the left of "Installed Userscripts" to add the script.
+3. Download the [AO3 Stats Hiding.txt](https://github.com/aceboxn/ao3-hide-stats/blob/master/AO3%20Stats%20Hiding.txt) file from this GitHub repo. Search for the word yourusername and replace it with your username as it appears on AO3.
 
-![3](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/3a.png)
+Search for yourusername:
 
-4. That will auto-generate a script boilerplate. You want to delete everything out of there and paste in the script from [AO3 Stats Hiding.txt](https://github.com/aceboxn/ao3-hide-stats/blob/master/AO3%20Stats%20Hiding.txt).
+![3a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/11.png)
 
-![4](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/4.png)
+Replace it with your AO3 username as it appears in the URL bar (in this case, appears as sonshineandshowers).
 
-5. Click "File --> "Save" (all the naming happens automatically from the script).
+![3b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/12.png)
 
-![5a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/5.png)
+4. Click the plus sign to the left of "Installed Userscripts" to add the script.
+
+![4](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/3a.png)
+
+5. That will auto-generate a script boilerplate. You want to delete everything out of there and paste in the AO3 Stats Hiding.txt script you downloaded and modified in step 3.
+
+![5](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/4.png)
+
+6. Click "File --> "Save" (all the naming happens automatically from the script).
+
+![6a](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/5.png)
 
 When you're done, your dashboard screen will look like this (green toggle for enabled)
 
-![5b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/6.png)
+![6b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/6.png)
 
 ## Testing out:
 1. Go to AO3: https://archiveofourown.org/. You'll note the little red number on the robot icon - this means a script is enabled.
