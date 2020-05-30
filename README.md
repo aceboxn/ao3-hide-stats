@@ -22,6 +22,7 @@ Across all AO3 pages, hides the following:
 ![2b](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/2.png)
 
 That will bring up a screen that looks like the below, yet yours will be empty to start.
+
 3. Click the plus sign to the left of "Installed Userscripts" to add the script.
 ![3](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/3.png)
 4. That will auto-generate a script boilerplate. You want to delete everything out of there and paste in the script from AO3 Stats Hiding.txt.
