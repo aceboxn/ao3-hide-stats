@@ -1,0 +1,19 @@
+// ==UserScript==
+// @name         AO3 Stats Hiding
+// @version      0.1
+// @description  hides user statistics from ao3
+// @author       ace
+// @match        https://archiveofourown.org/*
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // hides kudos, hits, comments, bookmarks, comments button, and the inbox
+    const style = document.createElement('style');
+    style.type = 'text/css';
+    style.innerText = '.kudos{display:none !important;} .hits{display:none !important;} .comments{display:none !important;} .bookmarks{display:none !important;} #show_comments_link{display:none !important;} a[href="/users/sonshineandshowers/inbox"]{display:none !important;}';
+    document.head.appendChild(style);
+})();
