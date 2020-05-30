@@ -1,4 +1,4 @@
-# ao3-hide-stats
+# AO3 Stats Hiding
 Script to hide all user stats from browsing on Archive of Our Own (AO3). Provides clean interface to write and browse without seeing popularity of works.
 
 Across all AO3 pages, hides the following:
