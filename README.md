@@ -28,7 +28,7 @@ Across all AO3 pages, hides the following:
 
 That will bring up a screen that looks like the below, yet yours will be empty to start.
 
-3. Download the [AO3 Stats Hiding.txt](https://github.com/aceboxn/ao3-hide-stats/blob/master/AO3%20Stats%20Hiding.txt) file from this GitHub repo. Search for the word yourusername and replace it with your username as it appears on AO3.
+3. Download the [AO3 Stats Hiding.txt](https://github.com/aceboxn/ao3-hide-stats/blob/master/AO3%20Stats%20Hiding.txt) file from this GitHub repo. Search for the word yourusername and replace it with your username as it appears on AO3. You can find how your AO3 username appears in urls by going to https://archiveofourown.org and clicking on My Dashboard. Your username will appear in the url bar after /users/.
 
 Search for yourusername:
 
