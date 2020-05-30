@@ -10,6 +10,8 @@ Across all AO3 pages, hides the following:
 - inbox button
 
 ## View with stats hidden versus standard AO3
+![After](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/9.png)
+![Before](https://github.com/aceboxn/ao3-hide-stats/blob/master/statshiding/10.png)
 
 ## To get up and running:
 1. Install Tampermonkey browser extension: https://www.tampermonkey.net/.
